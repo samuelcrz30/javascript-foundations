@@ -1,0 +1,1 @@
+Repositorio dedicado a reforzar y ampliar mis fundamentos de JavaScript mediante ejercicios, prácticas y conceptos de la certificación de JavaScript de freeCodeCamp.
